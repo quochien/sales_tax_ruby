@@ -1,0 +1,2 @@
+class Medicine < ExcemptGood
+end
